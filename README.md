@@ -18,7 +18,7 @@
 - Scores by School Spending
     Replacing the ninth grade scores does not affect the school spending because each student is still accounted for we just replaced their grades with NaN's 
 - Scores by School Size
-    This is also not affected because the students were not removed from the count
+This is also not affected because the students were not removed from the count
 - Scores by School Type
-    The school type is also not affected because that is not determined by the ninth graders grades
+The school type is also not affected because that is not determined by the ninth graders grades
     
